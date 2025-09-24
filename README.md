@@ -3,10 +3,10 @@
 A responsive portfolio website showcasing my projects and skills as a web developer.
 
 ## Live Demo
-[Visit My Portfolio](your-live-link-here)
+[]
 
 ## GitHub Repository
-[View Source Code](your-github-repo-link)
+[https://github.com/afrahghazi/project.git]
 
 ## Technologies Used
 - HTML5
@@ -25,3 +25,4 @@ A responsive portfolio website showcasing my projects and skills as a web develo
 1. Clone the repository
 2. Open index.html in your browser
 3. Enjoy exploring my work!
+
