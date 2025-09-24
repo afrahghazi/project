@@ -3,7 +3,7 @@
 A responsive portfolio website showcasing my projects and skills as a web developer.
 
 ## Live Demo
-[]
+[https://afrahghazi.github.io/project/]
 
 ## GitHub Repository
 [https://github.com/afrahghazi/project.git]
@@ -25,4 +25,5 @@ A responsive portfolio website showcasing my projects and skills as a web develo
 1. Clone the repository
 2. Open index.html in your browser
 3. Enjoy exploring my work!
+
 
